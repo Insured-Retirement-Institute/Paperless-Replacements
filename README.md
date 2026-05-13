@@ -1,8 +1,8 @@
-# \<*Add repository name here*\>
+# Paperless Replacements
 
 > **NOTE:** This repository is for the working group to use while drafting documentation and specifications before they are formally ratified.  Users outside of the working group should not begin implementing solutions based on the content in this repository as it is likely to change without notice.
 
-\<*Add repository description here*\>
+Paperless Replacements Processing (RPL) facilitates the issuing carrier’s replacements instructions for a 1035 exchange/transfer (replacements) surrender request to the ceding carrier. The ceding carrier will act upon the receipt of the electronic instructions to complete the client-initiated transfer instructions.
 
 ## Draft API Specifications
 
